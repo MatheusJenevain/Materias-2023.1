@@ -1,0 +1,96 @@
+anotação video ES
+
+por quê escrever, e para quem? Estou escrevendo para pessoas que sei me comunicar? Sei a linguagem e o estilo correto?	
+escrever de uma forma que todos 
+possam compreender. Pessoas de fora entendem o que eu escrevi?
+escrevemos para interagir com a comunidade, mostrar o que fiz, abrir portas e avaliar minha pesquisa
+
+o que escrever e como
+
+introdução 
+trabalhos relacionados/background
+método
+resultados
+discussão/implicações
+conclusão
+
+Ao escrever um artigo, foco no início. Introdução é crucial. Nela ganhamos ou perdemos as pessoas.
+
+convença o leitor na primeira página sobre por que o seu texto importa, no que ele inova, o que tem de legal e dê aquele gosto de quero mais.
+qual o problema, a dor da questão?
+qual a motivação?
+qual o objetivo?
+quais as contribuições?
+
+sobre o contexto da introdução
+	apontar trabalhos muito importantes ou utilizados na base
+	tem que criar comntexto sem ser excessivo
+
+apresentar o que já existe e como meu trabalho se relaciona com ele
+mostrando diferenças e complementaridade
+
+mostrar onde me apoiei ou estou apoiando, e o que vou usar
+
+no início mostrar o buraco e se meu trabaçho se apoia em outros existentes
+no final, comparar resultados e como meu trabaçho se encaixa
+
+evitar apenas listar trabalhos
+evitar trazer resumos sobre outros trabalhos
+evitar deixar a relação com meu trabalho de lado
+evitar terminar sem dizer como tudo informa o que fiz
+
+ aintrodução debe mostrar
+como o estudo foi conduzido
+por que aquilo foi feito
+justificativa pras escolhas
+ser alinhado com as questões que quero responder
+demonstrar rigidez e robustez
+
+
+
+formato + conteúdo: cabeçalho, introdução, seções para contribuição, conclusão, referência
+pode ter cerca de cinco ou mais seções das contribuições do artigo
+
+resumo tem que ser conciso com contexto, problema, solução e avaliação
+
+introdução reafirma o resumo, define contribuições e conecta todas as seções
+repita as contribuições do artigo, o que eles trazem de útil
+
+resumo e introdução precisam vender o peixe. o ue tem de novo nesse artigo?
+
+corpo do trabalho
+o que já existe, background, trabalho relacionado e minhas contribuições
+
+Conclusão reafirma as contribuições do artigo frente ao texto todo
+Falar sobre trabalhos futuros
+Agradecimentos
+
+A conclusão também adiciona conhecimento, implicações, práticas teóricas, novidades técnico-científicas. E extrapola a ciência, noss azona de conforto
+
+referências - trabalhos relacionados, igual ou similar, amplo ou limitado - contexto, problema e solução
+titulo introdução e resumo são as partes essenciais
+
+raramente conseguimos escrever as coisas na ordem de título até referência
+
+
+professora mirela sugere - contribuições - título - relacionados a referência - resumo, introdução e conferir o resumo - conclusão
+
+erros muito comuns
+deixar tudo implícito e achar que tudo é óbvio
+mas a figura mostra isso, é só pensar- precisamos explicar o que a pessoa deve entender
+mas cuidado, explicar tudo precisa ser feito com parcimônia. Explicar o que deve ser explicado, não todo conceito fundamental
+cuidado com brasileirismos-> erros pela tradução literal do português pro inglês. Coisas que fazem sentido na nossa língua mas não na outra
+
+
+artigo não é uma historinha contada no tempo passado
+também não é algo que está detalhado, será apresentado etc. O texto é presente
+
+texto inteiro no tempo presente
+exceção para trabalhos futuros
+
+disponibilize tudo em datasets e de licença aberta. Github e afins, dá moral para o trabalho
+experimentos devem ser reproduzíveis
+
+um texto científico não é um livro de mistério, tudo precisa ser claro desde o começo
+revise tudo, e saiba que nada dá certo logo de cara. rejeição faz parte
+
